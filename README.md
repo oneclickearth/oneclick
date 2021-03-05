@@ -2,6 +2,8 @@
 
 #### 简介
 
+![1](static/preview.png)
+
 ##### oneclick是一个安全、易用，免费的工具，功能如下
 
 - 支持时下最流行的加密协议：**Shadowsocks**、**Trojan**、**Vmess** 等
