@@ -2,7 +2,7 @@
 
 #### 简介
 
-![1](static/preview.png)
+![1](static/preview1.png)
 
 ##### oneclick是一个安全、易用，免费的工具，功能如下
 
@@ -30,3 +30,5 @@
 4.[港区Apple ID注册流程](appleid.md)
 
 	iOS用户需要非中国区的Apple 参考注册帮助，仅需10分钟完成注册
+
+![1](https://oneclick.earth/static/gh.png)
